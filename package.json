@@ -1,0 +1,17 @@
+{
+  "name": "omnifood-app",
+  "description": "Omnifood App",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^3.4.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
